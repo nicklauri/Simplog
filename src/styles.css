@@ -1,1 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
+
+html {
+    font-family: Menlo, 'Jetbrains Mono', Consolas, monospace;
+    font-size: 12px;
+}
+
+button {
+    font-family: Menlo, 'Jetbrains Mono', Consolas, monospace;
+}

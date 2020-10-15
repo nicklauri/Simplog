@@ -1,0 +1,17 @@
+.form-container table {
+    outline: none;
+}
+
+table input {
+    width: 100%;
+}
+
+table button {
+    margin: 2px;
+}
+
+.login-title {
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+}
